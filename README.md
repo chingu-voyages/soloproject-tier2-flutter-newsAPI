@@ -47,6 +47,10 @@ The primary programming language in Flutter is Dart. Dart is a programming langu
   font, font size, color scheme, layout, etc.).
   
   - See [8 Rules of mobile design](https://uxdesign.cc/8-rules-of-mobile-design-1b8d9936c241)
+  
+- [ ] Use the correct widget depending on the system
+  - Cupertino Widgets - iOS Apple
+  - Material Widgets - Android
 
 #### Features
 
