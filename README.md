@@ -6,13 +6,14 @@
 
 This project helps you gain experience in using API's to enhance the value
 your applications provide to their users. Your objective with this project is 
-to build a mobile application with Flutter using the News API to receive latest news and show them to your users.
+to build a mobile application with Flutter using the News API to receive latest 
+news and show them to your users. However, it's okay if you prefer another 
+programming language and framework.
 
 ## Instructions
 
-General instructions for all Solo Projects are located in the 
-[Chingu Library](https://voyage.docs.chingu.io/prework/howwork). For detailed 
-requirements, please checkout the following.
+General instructions for all Solo Projects are located in your Chingu Handbook. 
+For detailed requirements, please checkout the following.
 
 ### For Beginners in Dart and Flutter
 
